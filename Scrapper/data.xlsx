@@ -1,0 +1,1673 @@
+<?xml version="1.0"?>
+<ExtractTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>1</Id>
+      <ParentId>0</ParentId>
+      <Name>Field1</Name>
+      <Header>Field1</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@class="a-row view-point"]/div[1]/div[1]/div[1]/div[4]/span[2]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>8w3ysf9bi9m</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Not Really worth the money</SampleValue>
+      <OriginalValue>Not Really worth the money</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>2</Id>
+      <ParentId>0</ParentId>
+      <Name>Field2</Name>
+      <Header>Field2</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@class="a-row view-point"]/div[1]/div[1]/div[1]/div[4]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>2obdn7cu0zp</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>4.0 out of 5 stars</SampleValue>
+      <OriginalValue>4.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>3</Id>
+      <ParentId>0</ParentId>
+      <Name>Field3</Name>
+      <Header>Field3</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@class="a-row view-point"]/div[1]/div[1]/div[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>o3m3pzdslhr</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Top positive reviewAll positive reviews› &lt;img src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e8afdb16-6086-4ff3-a4c1-561951153e50._CR50,0,300,300_SX48_.jpg"/&gt;RakhuNathan4.0 out of 5 starsNot Really worth the moneyReviewed in India on 18 December 2020I have been an android user for the past 8+ years. Recently was using iphone 6 for the past few months, liked it much and wanted to switch to ios. I did not want to regret, so i purchased the best in the market, going with iphone 12. Honestly, I dont feel its worthy. Perfomance wise, its good. A lot other phones like MI, 1+ everything gives us a very nice perfomance too. The A14 chip is just a tag line to sell the phone. Are we really going to process million instructions per second on a mobile phone? Defenitely not.Battery, After charging it to 100% in the morning, I am hardly getting 1 full day with average use. My battery is almost 20% at the end of the day with a screentime of 4-4.3 hours[Update : With low power mode, it makes a 6 hour day, ending with 30%]. Camera quality is amazing in natural light. Yes, as specified it works so nice in night light, but please dont mistake night light as no-light. Front camera is still average. The same things i see in every other mid range android phones. I am still using JIO 4g. Not sure how this would work on 5g (must drain even faster)Face detenction, the color of the phone, Water resistant and all stuffs are nice to have, fancy items.  But not really convinced if this is all we get for 84k?Fast charging - I bought a 20W charger from apple store for Rs.1900. I plug in when the battery is 20-25% and it takes 1.45 hours to reach 100%. If this is all about fast charging you are looking for, well and good. I never tried with magsafe, honestly. But this to me doesnt seem fast charging for 2800~ mah battery.I wont say that this phone is too poor. It gives us all that it promises. Personally I dont recommend investing 85k Indian money into this. Either go for lower versions of other iphones like 11 or you can wait for an year and buy this at cheaper cost.PROS : Camera &amp; PerfomanceCONS : Battery and Cost</SampleValue>
+      <OriginalValue>Top positive reviewAll positive reviews› &lt;img src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e8afdb16-6086-4ff3-a4c1-561951153e50._CR50,0,300,300_SX48_.jpg"/&gt;RakhuNathan4.0 out of 5 starsNot Really worth the moneyReviewed in India on 18 December 2020I have been an android user for the past 8+ years. Recently was using iphone 6 for the past few months, liked it much and wanted to switch to ios. I did not want to regret, so i purchased the best in the market, going with iphone 12. Honestly, I dont feel its worthy. Perfomance wise, its good. A lot other phones like MI, 1+ everything gives us a very nice perfomance too. The A14 chip is just a tag line to sell the phone. Are we really going to process million instructions per second on a mobile phone? Defenitely not.Battery, After charging it to 100% in the morning, I am hardly getting 1 full day with average use. My battery is almost 20% at the end of the day with a screentime of 4-4.3 hours[Update : With low power mode, it makes a 6 hour day, ending with 30%]. Camera quality is amazing in natural light. Yes, as specified it works so nice in night light, but please dont mistake night light as no-light. Front camera is still average. The same things i see in every other mid range android phones. I am still using JIO 4g. Not sure how this would work on 5g (must drain even faster)Face detenction, the color of the phone, Water resistant and all stuffs are nice to have, fancy items.  But not really convinced if this is all we get for 84k?Fast charging - I bought a 20W charger from apple store for Rs.1900. I plug in when the battery is 20-25% and it takes 1.45 hours to reach 100%. If this is all about fast charging you are looking for, well and good. I never tried with magsafe, honestly. But this to me doesnt seem fast charging for 2800~ mah battery.I wont say that this phone is too poor. It gives us all that it promises. Personally I dont recommend investing 85k Indian money into this. Either go for lower versions of other iphones like 11 or you can wait for an year and buy this at cheaper cost.PROS : Camera &amp; PerfomanceCONS : Battery and Cost</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>4</Id>
+      <ParentId>0</ParentId>
+      <Name>Field4</Name>
+      <Header>Field4</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@class="a-row view-point"]/div[1]/div[1]/div[1]/div[6]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>ibt43u677z</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>I have been an android user for the past 8+ years. Recently was using iphone 6 for the past few months, liked it much and wanted to switch to ios. I did not want to regret, so i purchased the best in the market, going with iphone 12. Honestly, I dont feel its worthy. Perfomance wise, its good. A lot other phones like MI, 1+ everything gives us a very nice perfomance too. The A14 chip is just a tag line to sell the phone. Are we really going to process million instructions per second on a mobile phone? Defenitely not.
+
+Battery, After charging it to 100% in the morning, I am hardly getting 1 full day with average use. My battery is almost 20% at the end of the day with a screentime of 4-4.3 hours[Update : With low power mode, it makes a 6 hour day, ending with 30%]. Camera quality is amazing in natural light. Yes, as specified it works so nice in night light, but please dont mistake night light as no-light. Front camera is still average. The same things i see in every other mid range android phones. I am still using JIO 4g. Not sure how this would work on 5g (must drain even faster)
+
+Face detenction, the color of the phone, Water resistant and all stuffs are nice to have, fancy items. But not really convinced if this is all we get for 84k?
+
+Fast charging - I bought a 20W charger from apple store for Rs.1900. I plug in when the battery is 20-25% and it takes 1.45 hours to reach 100%. If this is all about fast charging you are looking for, well and good. I never tried with magsafe, honestly. But this to me doesnt seem fast charging for 2800~ mah battery.
+
+I wont say that this phone is too poor. It gives us all that it promises. Personally I dont recommend investing 85k Indian money into this. Either go for lower versions of other iphones like 11 or you can wait for an year and buy this at cheaper cost.
+
+PROS : Camera &amp; Perfomance
+CONS : Battery and Cost</SampleValue>
+      <OriginalValue>I have been an android user for the past 8+ years. Recently was using iphone 6 for the past few months, liked it much and wanted to switch to ios. I did not want to regret, so i purchased the best in the market, going with iphone 12. Honestly, I dont feel its worthy. Perfomance wise, its good. A lot other phones like MI, 1+ everything gives us a very nice perfomance too. The A14 chip is just a tag line to sell the phone. Are we really going to process million instructions per second on a mobile phone? Defenitely not.
+
+Battery, After charging it to 100% in the morning, I am hardly getting 1 full day with average use. My battery is almost 20% at the end of the day with a screentime of 4-4.3 hours[Update : With low power mode, it makes a 6 hour day, ending with 30%]. Camera quality is amazing in natural light. Yes, as specified it works so nice in night light, but please dont mistake night light as no-light. Front camera is still average. The same things i see in every other mid range android phones. I am still using JIO 4g. Not sure how this would work on 5g (must drain even faster)
+
+Face detenction, the color of the phone, Water resistant and all stuffs are nice to have, fancy items. But not really convinced if this is all we get for 84k?
+
+Fast charging - I bought a 20W charger from apple store for Rs.1900. I plug in when the battery is 20-25% and it takes 1.45 hours to reach 100%. If this is all about fast charging you are looking for, well and good. I never tried with magsafe, honestly. But this to me doesnt seem fast charging for 2800~ mah battery.
+
+I wont say that this phone is too poor. It gives us all that it promises. Personally I dont recommend investing 85k Indian money into this. Either go for lower versions of other iphones like 11 or you can wait for an year and buy this at cheaper cost.
+
+PROS : Camera &amp; Perfomance
+CONS : Battery and Cost</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>5</Id>
+      <ParentId>0</ParentId>
+      <Name>Field5</Name>
+      <Header>Field5</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@class="a-row view-point"]/div[2]/div[1]/div[1]/div[4]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>unblcff9zsd</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>3.0 out of 5 stars</SampleValue>
+      <OriginalValue>3.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>6</Id>
+      <ParentId>0</ParentId>
+      <Name>Field6</Name>
+      <Header>Field6</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@class="a-row view-point"]/div[2]/div[1]/div[1]/div[6]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>hgjhzkkambd</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Positives: Very fast, Picture Quality, video quality seems superb, less charging time required.
+Cons: Shorter battery life than specified and expected.</SampleValue>
+      <OriginalValue>Positives: Very fast, Picture Quality, video quality seems superb, less charging time required.
+Cons: Shorter battery life than specified and expected.</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>7</Id>
+      <ParentId>0</ParentId>
+      <Name>Field7</Name>
+      <Header>Field7</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[1]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>8hokqtpae6o</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>4.0 out of 5 stars</SampleValue>
+      <OriginalValue>4.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>8</Id>
+      <ParentId>0</ParentId>
+      <Name>Field8</Name>
+      <Header>Field8</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[1]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>j3cra4ll5hd</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Not Really worth the money</SampleValue>
+      <OriginalValue>Not Really worth the money</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>9</Id>
+      <ParentId>0</ParentId>
+      <Name>Field9</Name>
+      <Header>Field9</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[1]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>kqwklpwtwx</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>I have been an android user for the past 8+ years. Recently was using iphone 6 for the past few months, liked it much and wanted to switch to ios. I did not want to regret, so i purchased the best in the market, going with iphone 12. Honestly, I dont feel its worthy. Perfomance wise, its good. A lot other phones like MI, 1+ everything gives us a very nice perfomance too. The A14 chip is just a tag line to sell the phone. Are we really going to process million instructions per second on a mobile phone? Defenitely not.
+
+Battery, After charging it to 100% in the morning, I am hardly getting 1 full day with average use. My battery is almost 20% at the end of the day with a screentime of 4-4.3 hours[Update : With low power mode, it makes a 6 hour day, ending with 30%]. Camera quality is amazing in natural light. Yes, as specified it works so nice in night light, but please dont mistake night light as no-light. Front camera is still average. The same things i see in every other mid range android phones. I am still using JIO 4g. Not sure how this would work on 5g (must drain even faster)
+
+Face detenction, the color of the phone, Water resistant and all stuffs are nice to have, fancy items. But not really convinced if this is all we get for 84k?
+
+Fast charging - I bought a 20W charger from apple store for Rs.1900. I plug in when the battery is 20-25% and it takes 1.45 hours to reach 100%. If this is all about fast charging you are looking for, well and good. I never tried with magsafe, honestly. But this to me doesnt seem fast charging for 2800~ mah battery.
+
+I wont say that this phone is too poor. It gives us all that it promises. Personally I dont recommend investing 85k Indian money into this. Either go for lower versions of other iphones like 11 or you can wait for an year and buy this at cheaper cost.
+
+PROS : Camera &amp; Perfomance
+CONS : Battery and Cost</SampleValue>
+      <OriginalValue>I have been an android user for the past 8+ years. Recently was using iphone 6 for the past few months, liked it much and wanted to switch to ios. I did not want to regret, so i purchased the best in the market, going with iphone 12. Honestly, I dont feel its worthy. Perfomance wise, its good. A lot other phones like MI, 1+ everything gives us a very nice perfomance too. The A14 chip is just a tag line to sell the phone. Are we really going to process million instructions per second on a mobile phone? Defenitely not.
+
+Battery, After charging it to 100% in the morning, I am hardly getting 1 full day with average use. My battery is almost 20% at the end of the day with a screentime of 4-4.3 hours[Update : With low power mode, it makes a 6 hour day, ending with 30%]. Camera quality is amazing in natural light. Yes, as specified it works so nice in night light, but please dont mistake night light as no-light. Front camera is still average. The same things i see in every other mid range android phones. I am still using JIO 4g. Not sure how this would work on 5g (must drain even faster)
+
+Face detenction, the color of the phone, Water resistant and all stuffs are nice to have, fancy items. But not really convinced if this is all we get for 84k?
+
+Fast charging - I bought a 20W charger from apple store for Rs.1900. I plug in when the battery is 20-25% and it takes 1.45 hours to reach 100%. If this is all about fast charging you are looking for, well and good. I never tried with magsafe, honestly. But this to me doesnt seem fast charging for 2800~ mah battery.
+
+I wont say that this phone is too poor. It gives us all that it promises. Personally I dont recommend investing 85k Indian money into this. Either go for lower versions of other iphones like 11 or you can wait for an year and buy this at cheaper cost.
+
+PROS : Camera &amp; Perfomance
+CONS : Battery and Cost</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>10</Id>
+      <ParentId>0</ParentId>
+      <Name>Field10</Name>
+      <Header>Field10</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[2]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>4e2ngwr6mrw</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>4.0 out of 5 stars</SampleValue>
+      <OriginalValue>4.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>11</Id>
+      <ParentId>0</ParentId>
+      <Name>Field11</Name>
+      <Header>Field11</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[2]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>i6vv2p7jtk</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>How to decide between iPhone 11 and 12</SampleValue>
+      <OriginalValue>How to decide between iPhone 11 and 12</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>12</Id>
+      <ParentId>0</ParentId>
+      <Name>Field12</Name>
+      <Header>Field12</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[2]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>nu3aqmyjq1f</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>After thinking a lot, I decided to go ahead with iPhone 12. The original price is ₹ 84900. After credit card discount(₹6000), old phone exchange(₹3450) and reward points money(₹4530) inclusion, I bought it for ₹70920. There’s also an additional 3000 discount on red and white variants but I couldn’t let go of blue
+
+1. PRICE: Considering iPhone 11 would be supported by iOS for 4 years, based on the current price it’d cost 13k per year and iPhone 12 for 5 years would cost 14.9k(excluding exchange discount) per year. For me price gap for both phones didn’t seem to make a huge difference as IPhone 11 is already an year old and costing only a 2k less per year.
+
+2: DISPLAY: I’ve purchased iPhone 11 for my mom last year and been observing the display for some months. Compared to iPhone 11, the iPhone 12 display is far superior and has better pixel quality.
+
+3: BEZELS: the bezels of iPhone 12 are much thinner and makes the phone look decent unlike in 11. Apart from this, the phone is incredibly light making it easy to hold it.
+
+How to choose between 64/128gb:
+If you’re not really tight on budget, I’d suggest to go for 128gb variant. I’ve been using one plus for 1.5 years and storage occupied about 60gb. So it’d make good sense to check your current phone usage. Either way you can also opt for iCloud 50gb storage which would cost approximately the difference amount of 64 and 128 go for 5 years.
+
+CONS:
+1. Could have definitely included the charger for the price
+2. If you’re an android user, migration would be little time consuming
+
+Update: I’ve uploaded a couple of pictures shot using automatic night mode. :)</SampleValue>
+      <OriginalValue>After thinking a lot, I decided to go ahead with iPhone 12. The original price is ₹ 84900. After credit card discount(₹6000), old phone exchange(₹3450) and reward points money(₹4530) inclusion, I bought it for ₹70920. There’s also an additional 3000 discount on red and white variants but I couldn’t let go of blue
+
+1. PRICE: Considering iPhone 11 would be supported by iOS for 4 years, based on the current price it’d cost 13k per year and iPhone 12 for 5 years would cost 14.9k(excluding exchange discount) per year. For me price gap for both phones didn’t seem to make a huge difference as IPhone 11 is already an year old and costing only a 2k less per year.
+
+2: DISPLAY: I’ve purchased iPhone 11 for my mom last year and been observing the display for some months. Compared to iPhone 11, the iPhone 12 display is far superior and has better pixel quality.
+
+3: BEZELS: the bezels of iPhone 12 are much thinner and makes the phone look decent unlike in 11. Apart from this, the phone is incredibly light making it easy to hold it.
+
+How to choose between 64/128gb:
+If you’re not really tight on budget, I’d suggest to go for 128gb variant. I’ve been using one plus for 1.5 years and storage occupied about 60gb. So it’d make good sense to check your current phone usage. Either way you can also opt for iCloud 50gb storage which would cost approximately the difference amount of 64 and 128 go for 5 years.
+
+CONS:
+1. Could have definitely included the charger for the price
+2. If you’re an android user, migration would be little time consuming
+
+Update: I’ve uploaded a couple of pictures shot using automatic night mode. :)</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>13</Id>
+      <ParentId>0</ParentId>
+      <Name>Field13</Name>
+      <Header>Field13</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[3]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>8ehe5vxp9i5</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>
+  Positives: Very fast, Picture Quality, video quality seems superb,  less charging time required.Cons: Shorter battery life than specified and expected.
+</SampleValue>
+      <OriginalValue>
+  Positives: Very fast, Picture Quality, video quality seems superb,  less charging time required.Cons: Shorter battery life than specified and expected.
+</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>14</Id>
+      <ParentId>0</ParentId>
+      <Name>Field14</Name>
+      <Header>Field14</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[3]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>goaau0frnaq</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>3.0 out of 5 stars</SampleValue>
+      <OriginalValue>3.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>15</Id>
+      <ParentId>0</ParentId>
+      <Name>Field15</Name>
+      <Header>Field15</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[3]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>ewiuhangaeh</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>iPhone 12 review</SampleValue>
+      <OriginalValue>iPhone 12 review</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>16</Id>
+      <ParentId>0</ParentId>
+      <Name>Field16</Name>
+      <Header>Field16</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[4]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>zofza9tcaj</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>
+   Dear Team,Please be informed that I am very dissatisfied by the services provided by Amazon buying this much expensive mobile from Amazon is not worth I believe they always provide us the defected item I recently purchased I phone 12 and it is creating a problem while switching on had to try multiple times for the same and this problem occurs every time whenever I switch off the mobile last time also the same issue occur when I bought my One plus 08 there was issue related to camera image was getting blurred each time and then I have to replace it I think Amazon just sell defected items I am very angry and wil take it forward because it's second time in a row and will never suggest any one to buy mobile especially from Amazon and also want to post the review about this on social media
+</SampleValue>
+      <OriginalValue>
+   Dear Team,Please be informed that I am very dissatisfied by the services provided by Amazon buying this much expensive mobile from Amazon is not worth I believe they always provide us the defected item I recently purchased I phone 12 and it is creating a problem while switching on had to try multiple times for the same and this problem occurs every time whenever I switch off the mobile last time also the same issue occur when I bought my One plus 08 there was issue related to camera image was getting blurred each time and then I have to replace it I think Amazon just sell defected items I am very angry and wil take it forward because it's second time in a row and will never suggest any one to buy mobile especially from Amazon and also want to post the review about this on social media
+</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>17</Id>
+      <ParentId>0</ParentId>
+      <Name>Field17</Name>
+      <Header>Field17</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[4]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>m7lflk4lera</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>1.0 out of 5 stars</SampleValue>
+      <OriginalValue>1.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>18</Id>
+      <ParentId>0</ParentId>
+      <Name>Field18</Name>
+      <Header>Field18</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[4]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>6er3k3zxuqh</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Very poor service especially related to buying mobile</SampleValue>
+      <OriginalValue>Very poor service especially related to buying mobile</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>19</Id>
+      <ParentId>0</ParentId>
+      <Name>Field19</Name>
+      <Header>Field19</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[5]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>9fnjvenetzn</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Apple .....bas always been just apple.</SampleValue>
+      <OriginalValue>Apple .....bas always been just apple.</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>20</Id>
+      <ParentId>0</ParentId>
+      <Name>Field20</Name>
+      <Header>Field20</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[5]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>esr95h80e7q</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>5.0 out of 5 stars</SampleValue>
+      <OriginalValue>5.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>21</Id>
+      <ParentId>0</ParentId>
+      <Name>Time</Name>
+      <Header>Time</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[5]/div[1]/div[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>niz4rbwfsb</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Reviewed in India on 14 December 2020</SampleValue>
+      <OriginalValue>Reviewed in India on 14 December 2020</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>22</Id>
+      <ParentId>0</ParentId>
+      <Name>Field21</Name>
+      <Header>Field21</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[5]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>0azmtnnbophe</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Pros:
+there are 1000s of blog for pros
+
+Cons:
+Apple has to work to improve their battery life
+Charger ! Charger ! Charger ! If apple really cares about environment so much then they must deliver a phone once in 3 years. Or, give the users a usb c.
+
+Don’t rely on their screen advertising. Use a cover. Glass is still a glass and you can observe scratches after a month of usage.
+
+5g isn’t for India, still price in terms of dollars was same!</SampleValue>
+      <OriginalValue>Pros:
+there are 1000s of blog for pros
+
+Cons:
+Apple has to work to improve their battery life
+Charger ! Charger ! Charger ! If apple really cares about environment so much then they must deliver a phone once in 3 years. Or, give the users a usb c.
+
+Don’t rely on their screen advertising. Use a cover. Glass is still a glass and you can observe scratches after a month of usage.
+
+5g isn’t for India, still price in terms of dollars was same!</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>23</Id>
+      <ParentId>0</ParentId>
+      <Name>Field22</Name>
+      <Header>Field22</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[6]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>14zn92mp08u</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>
+  They called ceremic shield but it’s not for scratchless!!!!! I have so many scratches in my phone.......pls use tempered glass for protection of scratches!!!!!
+</SampleValue>
+      <OriginalValue>
+  They called ceremic shield but it’s not for scratchless!!!!! I have so many scratches in my phone.......pls use tempered glass for protection of scratches!!!!!
+</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>24</Id>
+      <ParentId>0</ParentId>
+      <Name>Field23</Name>
+      <Header>Field23</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[6]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>7niye477ygi</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Wrost part of ceremic shield</SampleValue>
+      <OriginalValue>Wrost part of ceremic shield</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>25</Id>
+      <ParentId>0</ParentId>
+      <Name>Field24</Name>
+      <Header>Field24</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[6]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>6a5ie09qiox</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>4.0 out of 5 stars</SampleValue>
+      <OriginalValue>4.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>26</Id>
+      <ParentId>0</ParentId>
+      <Name>Field25</Name>
+      <Header>Field25</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[7]/div[1]/div[1]/div[4]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>htjos6bedww</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Android v/s iOS
+
+Pro Apple
+1. Tons of privacy features and solid implementation. Every new app installed needs permission to send notifications.
+And with a future update, facebook won't be able to track what you're doing in other apps outside of Facebook. This deserves an applaud.
+
+2. Battery
+The battery is amazing, giving more than 6 hours of screen on time. OnePlus can't touch this. If you bring this up with them, they'll distract you by saying it has fast charging.
+
+3. Camera - photos are ok and decent BUT, DAMN, the video quality is amazing. Totally stabilized ready for uploads.
+
+4. Build Quality - SOLID.
+
+5. Continued updates for years and years. An android may last you 2-4 years, and the updated would be "raam bharose", but these new iphones especially will easily last 5 years minimum with no compromises on software and security upgrades.
+
+6. Less features, but they work 10/10. Example, auto fill OTP option in keyboard works every single timein iPhone. In Android, if your keyboard is open already before the otp arrives, then this feature won't work. Half baked implementation.
+
+Pro Android / Anti - iOS
+1. Notifications. Notifications centre on iPhone SUCKS. I have missed email notifications regularly. Android does this so well.
+
+2. Implementation of new app library feature sucks. This creates a very confusing situation. The way to solve this would be if the auto-folders in app library could be manually managed.
+
+3. Screen Sizes and Notch - The Notch is a disgrace for iphones when the iphones have reached the level of punch hole displays. Hoping the next year's model can make it better.
+
+4. No Truecaller in iPhone and no call recording. I can forgive the call recording considering the privacy first model, but truecaller is a pro to privacy.
+
+5. CHEAP QUALITY OF CHARGING CABLE. For a luxury brand, this is a disgrace.
+
+6. PRICE - Yes, iphones are expensive BUT, paying +10-15k for a phone available cheaper in Dubai / USA really pinches. Damn Taxes.
+
+7. Yes iPhones run smoothly but don't think that these don't stutter. I face very light stutters now and then and I restart at least once a week whenever I encounter it.
+
+I'll probably give this phone to my family member against their iPhone x since they're way too deep in ios ecosystem now.</SampleValue>
+      <OriginalValue>Android v/s iOS
+
+Pro Apple
+1. Tons of privacy features and solid implementation. Every new app installed needs permission to send notifications.
+And with a future update, facebook won't be able to track what you're doing in other apps outside of Facebook. This deserves an applaud.
+
+2. Battery
+The battery is amazing, giving more than 6 hours of screen on time. OnePlus can't touch this. If you bring this up with them, they'll distract you by saying it has fast charging.
+
+3. Camera - photos are ok and decent BUT, DAMN, the video quality is amazing. Totally stabilized ready for uploads.
+
+4. Build Quality - SOLID.
+
+5. Continued updates for years and years. An android may last you 2-4 years, and the updated would be "raam bharose", but these new iphones especially will easily last 5 years minimum with no compromises on software and security upgrades.
+
+6. Less features, but they work 10/10. Example, auto fill OTP option in keyboard works every single timein iPhone. In Android, if your keyboard is open already before the otp arrives, then this feature won't work. Half baked implementation.
+
+Pro Android / Anti - iOS
+1. Notifications. Notifications centre on iPhone SUCKS. I have missed email notifications regularly. Android does this so well.
+
+2. Implementation of new app library feature sucks. This creates a very confusing situation. The way to solve this would be if the auto-folders in app library could be manually managed.
+
+3. Screen Sizes and Notch - The Notch is a disgrace for iphones when the iphones have reached the level of punch hole displays. Hoping the next year's model can make it better.
+
+4. No Truecaller in iPhone and no call recording. I can forgive the call recording considering the privacy first model, but truecaller is a pro to privacy.
+
+5. CHEAP QUALITY OF CHARGING CABLE. For a luxury brand, this is a disgrace.
+
+6. PRICE - Yes, iphones are expensive BUT, paying +10-15k for a phone available cheaper in Dubai / USA really pinches. Damn Taxes.
+
+7. Yes iPhones run smoothly but don't think that these don't stutter. I face very light stutters now and then and I restart at least once a week whenever I encounter it.
+
+I'll probably give this phone to my family member against their iPhone x since they're way too deep in ios ecosystem now.</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>27</Id>
+      <ParentId>0</ParentId>
+      <Name>Time1</Name>
+      <Header>Time1</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[7]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>f528oy7a5js</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>I miss my OnePlus 6</SampleValue>
+      <OriginalValue>I miss my OnePlus 6</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>28</Id>
+      <ParentId>0</ParentId>
+      <Name>Field26</Name>
+      <Header>Field26</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[4]/div[1]/div[1]/div[4]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>r1bnp9h5ngd</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            Your browser does not support HTML5 video.
+        
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+   Dear Team,Please be informed that I am very dissatisfied by the services provided by Amazon buying this much expensive mobile from Amazon is not worth I believe they always provide us the defected item I recently purchased I phone 12 and it is creating a problem while switching on had to try multiple times for the same and this problem occurs every time whenever I switch off the mobile last time also the same issue occur when I bought my One plus 08 there was issue related to camera image was getting blurred each time and then I have to replace it I think Amazon just sell defected items I am very angry and wil take it forward because it's second time in a row and will never suggest any one to buy mobile especially from Amazon and also want to post the review about this on social media
+
+  
+</SampleValue>
+      <OriginalValue>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            Your browser does not support HTML5 video.
+        
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+   Dear Team,Please be informed that I am very dissatisfied by the services provided by Amazon buying this much expensive mobile from Amazon is not worth I believe they always provide us the defected item I recently purchased I phone 12 and it is creating a problem while switching on had to try multiple times for the same and this problem occurs every time whenever I switch off the mobile last time also the same issue occur when I bought my One plus 08 there was issue related to camera image was getting blurred each time and then I have to replace it I think Amazon just sell defected items I am very angry and wil take it forward because it's second time in a row and will never suggest any one to buy mobile especially from Amazon and also want to post the review about this on social media
+
+  
+</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>29</Id>
+      <ParentId>0</ParentId>
+      <Name>Field27</Name>
+      <Header>Field27</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[5]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>cgto8yzbokr</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>5.0 out of 5 stars</SampleValue>
+      <OriginalValue>5.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>30</Id>
+      <ParentId>0</ParentId>
+      <Name>Field28</Name>
+      <Header>Field28</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[5]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>ox4izj1dzk9</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Pros:
+there are 1000s of blog for pros
+
+Cons:
+Apple has to work to improve their battery life
+Charger ! Charger ! Charger ! If apple really cares about environment so much then they must deliver a phone once in 3 years. Or, give the users a usb c.
+
+Don’t rely on their screen advertising. Use a cover. Glass is still a glass and you can observe scratches after a month of usage.
+
+5g isn’t for India, still price in terms of dollars was same!</SampleValue>
+      <OriginalValue>Pros:
+there are 1000s of blog for pros
+
+Cons:
+Apple has to work to improve their battery life
+Charger ! Charger ! Charger ! If apple really cares about environment so much then they must deliver a phone once in 3 years. Or, give the users a usb c.
+
+Don’t rely on their screen advertising. Use a cover. Glass is still a glass and you can observe scratches after a month of usage.
+
+5g isn’t for India, still price in terms of dollars was same!</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>31</Id>
+      <ParentId>0</ParentId>
+      <Name>Field29</Name>
+      <Header>Field29</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[5]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>rpsic2wh9fa</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Apple .....bas always been just apple.</SampleValue>
+      <OriginalValue>Apple .....bas always been just apple.</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>32</Id>
+      <ParentId>0</ParentId>
+      <Name>Field30</Name>
+      <Header>Field30</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[6]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>lzy0e0w2n3g</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>
+  They called ceremic shield but it’s not for scratchless!!!!! I have so many scratches in my phone.......pls use tempered glass for protection of scratches!!!!!
+</SampleValue>
+      <OriginalValue>
+  They called ceremic shield but it’s not for scratchless!!!!! I have so many scratches in my phone.......pls use tempered glass for protection of scratches!!!!!
+</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>33</Id>
+      <ParentId>0</ParentId>
+      <Name>Field31</Name>
+      <Header>Field31</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[6]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>o3kaj50tp1o</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>4.0 out of 5 stars</SampleValue>
+      <OriginalValue>4.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>34</Id>
+      <ParentId>0</ParentId>
+      <Name>Field32</Name>
+      <Header>Field32</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[6]/div[1]/div[1]/div[2]/a[2]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>b76j1ag0ey6</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Wrost part of ceremic shield</SampleValue>
+      <OriginalValue>Wrost part of ceremic shield</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>35</Id>
+      <ParentId>0</ParentId>
+      <Name>Field33</Name>
+      <Header>Field33</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[7]/div[1]/div[1]/div[4]/span[1]/span[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>fd0b20gjvh</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Android v/s iOS
+
+Pro Apple
+1. Tons of privacy features and solid implementation. Every new app installed needs permission to send notifications.
+And with a future update, facebook won't be able to track what you're doing in other apps outside of Facebook. This deserves an applaud.
+
+2. Battery
+The battery is amazing, giving more than 6 hours of screen on time. OnePlus can't touch this. If you bring this up with them, they'll distract you by saying it has fast charging.
+
+3. Camera - photos are ok and decent BUT, DAMN, the video quality is amazing. Totally stabilized ready for uploads.
+
+4. Build Quality - SOLID.
+
+5. Continued updates for years and years. An android may last you 2-4 years, and the updated would be "raam bharose", but these new iphones especially will easily last 5 years minimum with no compromises on software and security upgrades.
+
+6. Less features, but they work 10/10. Example, auto fill OTP option in keyboard works every single timein iPhone. In Android, if your keyboard is open already before the otp arrives, then this feature won't work. Half baked implementation.
+
+Pro Android / Anti - iOS
+1. Notifications. Notifications centre on iPhone SUCKS. I have missed email notifications regularly. Android does this so well.
+
+2. Implementation of new app library feature sucks. This creates a very confusing situation. The way to solve this would be if the auto-folders in app library could be manually managed.
+
+3. Screen Sizes and Notch - The Notch is a disgrace for iphones when the iphones have reached the level of punch hole displays. Hoping the next year's model can make it better.
+
+4. No Truecaller in iPhone and no call recording. I can forgive the call recording considering the privacy first model, but truecaller is a pro to privacy.
+
+5. CHEAP QUALITY OF CHARGING CABLE. For a luxury brand, this is a disgrace.
+
+6. PRICE - Yes, iphones are expensive BUT, paying +10-15k for a phone available cheaper in Dubai / USA really pinches. Damn Taxes.
+
+7. Yes iPhones run smoothly but don't think that these don't stutter. I face very light stutters now and then and I restart at least once a week whenever I encounter it.
+
+I'll probably give this phone to my family member against their iPhone x since they're way too deep in ios ecosystem now.</SampleValue>
+      <OriginalValue>Android v/s iOS
+
+Pro Apple
+1. Tons of privacy features and solid implementation. Every new app installed needs permission to send notifications.
+And with a future update, facebook won't be able to track what you're doing in other apps outside of Facebook. This deserves an applaud.
+
+2. Battery
+The battery is amazing, giving more than 6 hours of screen on time. OnePlus can't touch this. If you bring this up with them, they'll distract you by saying it has fast charging.
+
+3. Camera - photos are ok and decent BUT, DAMN, the video quality is amazing. Totally stabilized ready for uploads.
+
+4. Build Quality - SOLID.
+
+5. Continued updates for years and years. An android may last you 2-4 years, and the updated would be "raam bharose", but these new iphones especially will easily last 5 years minimum with no compromises on software and security upgrades.
+
+6. Less features, but they work 10/10. Example, auto fill OTP option in keyboard works every single timein iPhone. In Android, if your keyboard is open already before the otp arrives, then this feature won't work. Half baked implementation.
+
+Pro Android / Anti - iOS
+1. Notifications. Notifications centre on iPhone SUCKS. I have missed email notifications regularly. Android does this so well.
+
+2. Implementation of new app library feature sucks. This creates a very confusing situation. The way to solve this would be if the auto-folders in app library could be manually managed.
+
+3. Screen Sizes and Notch - The Notch is a disgrace for iphones when the iphones have reached the level of punch hole displays. Hoping the next year's model can make it better.
+
+4. No Truecaller in iPhone and no call recording. I can forgive the call recording considering the privacy first model, but truecaller is a pro to privacy.
+
+5. CHEAP QUALITY OF CHARGING CABLE. For a luxury brand, this is a disgrace.
+
+6. PRICE - Yes, iphones are expensive BUT, paying +10-15k for a phone available cheaper in Dubai / USA really pinches. Damn Taxes.
+
+7. Yes iPhones run smoothly but don't think that these don't stutter. I face very light stutters now and then and I restart at least once a week whenever I encounter it.
+
+I'll probably give this phone to my family member against their iPhone x since they're way too deep in ios ecosystem now.</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>36</Id>
+      <ParentId>0</ParentId>
+      <Name>Field34</Name>
+      <Header>Field34</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>true</AllowDefaultValue>
+      <AlertWhenNotFound>true</AlertWhenNotFound>
+      <AbsXpath>//div[@id="cm_cr-review_list"]/div[7]/div[1]/div[1]/div[2]/a[1]/i[1]</AbsXpath>
+      <Operations/>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <belongTo>8flz4f3atnx</belongTo>
+      <uid>znezdoq3ah</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>3.0 out of 5 stars</SampleValue>
+      <OriginalValue>3.0 out of 5 stars</OriginalValue>
+    </ExtractItem>
+  </Items>
+</ExtractTemplate>
